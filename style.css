@@ -1,0 +1,25 @@
+.container {
+    margin: 0 auto;
+    text-align: center;
+    list-style-position: inside;
+    width: 100%;
+    font-size: 1.3rem;
+}
+
+.container ul ol {
+    text-align: center;
+}
+
+.time ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+}
+
+.time li {
+    margin: 0 auto;
+    float: left;
+    margin: 10px;
+}
